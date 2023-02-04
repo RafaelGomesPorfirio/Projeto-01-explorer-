@@ -1,1 +1,1 @@
-# Projeto-01-explorer-
+Projeto basico da trilha explorer, envolvendo epenas HTML e CSS
